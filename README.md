@@ -19,25 +19,6 @@ The original TGKernel framework is used as the basis for generating static graph
 
 ---
 
-## Repository Structure
-
-```
-src/
- ├── TGRepresentations.h
- ├── TGRepresentations.cpp
- ├── main.cpp
- └── ...
-
-datasets/
- ├── highschool_ct1/
- ├── highschool_ct2/
- ├── infectious_ct1/
- ├── infectious_ct2/
- └── ...
-```
-
----
-
 ## Added Functions
 
 The following functions must be added to `TGRepresentations.h`:
